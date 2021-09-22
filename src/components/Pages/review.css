@@ -1,0 +1,25 @@
+.image-title{
+    display: flex;
+    
+}
+.image-title h3{
+    text-align: center;
+    margin: 5%;
+    color: white;
+}
+.heading{
+    text-align: center;
+    color: white;
+}
+.profile{
+    margin-top: 14%;
+    background: white;
+    font-size: 20px;
+}
+.text-center{
+    padding: 20px;
+}
+.profile blockquote{
+    text-align: justify;
+    padding: 15px;
+}

@@ -1,0 +1,123 @@
+
+.department2{
+        margin-top: 0;
+        background-color: #0292CE;
+        padding-top: 0;
+        color: white;
+}
+.openinghours{
+    margin: 0;
+        display: flex;
+        font-size: 20px;
+       color: white;
+        padding-left: 30px;
+        text-align: justify;
+}
+.department0{
+    margin-top: 30px 0 30px 30px;
+    padding: 90px;
+    background: #3065B5;
+}
+.department1 {
+    background: #3FB8D7;
+    margin: 15px;
+    color: white;
+}
+.department0 p{
+    font-size: 20px;
+    color: white;
+}
+.department0 h3{
+    font-size: 25px;
+    color: white;
+    padding: 15px;
+}
+.telephone, .map, .mail{
+    padding-top: 5px;
+    margin-top: 0px;
+    margin-bottom: 25px;
+    font-size: 30px; 
+    color: white;
+   
+}
+.locationnew{
+    margin-top: 10px;
+    padding-left: 35px;
+    border-bottom: 1px solid black;
+    font-size: 20px;
+}
+
+.toprow{
+    margin: 5px;
+    padding: 5px;
+   
+}
+.topcol{
+    margin-top: 20px;
+   
+}
+.topcol blockquote{
+    text-align: justify;
+    font-size: 20px;
+    padding-top: 20px;
+}
+.topcol ul{
+    font-size: 18px;
+    margin: 0;
+}
+.topcol ul li{
+    text-align: justify;
+    padding:5px;
+    width: 100%;
+}
+.firstcol{
+    margin: 0;
+    padding: 0;
+}
+
+
+.Booking{
+   
+    
+    padding: 15px;
+    
+}
+.Booking h3{
+    padding: 20px;
+}
+
+.departments-one, .mail-date, .name-phone{
+    color: white;
+    display: flex;
+    
+    
+}
+.departments, .doctors, .name{
+    color: white;
+    padding: 20px;
+    font-size: 25px;
+    width: 350px;
+    background: #b9d1f59a;
+}
+.Questions{
+    padding: 0 40px;
+}
+.office-hours{
+    font-size: 20px;
+    border: 1px solid grey;
+    border-top: 3px solid #3065B5;
+    text-align: justify;
+    padding: 10px;
+}
+.office-hours{
+    text-align: justify;
+}
+.questions-p{
+    border: 1px solid grey;
+    font-size: 20px;
+    text-align: justify;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+    

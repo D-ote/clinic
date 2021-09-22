@@ -1,0 +1,68 @@
+.comp-text p{
+    font-size: 18px;
+    color: #00abd6;
+}
+.back-icon{
+    border: 0.5px solid black;
+    rotate: 90;
+}
+.services{ 
+    display: flex;
+    margin: 0 50px ;
+    padding: 110px;
+    overflow-x: hidden;
+    
+}
+.all-images{
+    display: flex;
+    position: relative;
+    
+}
+
+.comp{
+    display: flex;
+    padding: 20px;
+    
+}
+.icons{
+    position: relative;
+    margin-left: 1000px;
+}
+
+.icon-back, .icon-forward{
+   border: 1px solid black;
+   padding: 5px;
+   font-size: 28px;
+}
+.listline{
+    margin: 30px;
+    padding: 90px;
+    background: #3065B5;
+}
+
+.listline p{
+    font-size: 20px;
+    color: white;
+}
+.listline h3{
+    font-size: 25px;
+    color: white;
+    padding: 15px;
+}
+.image-slide{
+    padding-left: 30px;
+    position: absolute;
+}
+.image-text h3{
+    padding: 15px 15px 15px 0;
+    font-size: 28px;
+    font-weight: 400;
+    color: #3065B5;
+    border-bottom: 1px solid rgba(187, 184, 184, 0.603);
+} 
+.image-text p{
+   margin-top: 10px;
+}
+.slick-prev:before, .slick-next:before{
+    color: black !important;
+}

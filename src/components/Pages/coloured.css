@@ -1,0 +1,67 @@
+.Color{
+    margin: -70px 120px 0 120px;
+
+    height: 350px;
+    color: white;
+}
+.column1{
+    background: #3FB8D7;
+    padding-left: 50px;
+    
+}
+.column1 p, .column2 p, .column3 p{
+    text-align: justify;
+    font-size: 16px;
+}
+.column1 h3, .column2 h3, .column3 h3{
+    margin-top: 30px ;
+    margin-bottom: 30px ;
+    font-weight: 600;
+    font-size: 36px;
+    text-align: left;
+
+}
+.column2{
+    background: #0292CE;
+    padding-left: 50px;
+}
+.column3{
+    background: #3065B5;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+
+button{
+    width: 120px;
+    height: 60px;
+    float: left;
+    background: transparent;
+    border: 0.5px solid white;
+    margin-top: 40px;
+    
+    
+}
+
+.button-link{
+    color: white;
+    font-size: 20px;
+}
+.Monday, .Saturday, .Sunday{
+    margin: 0;
+    display: flex;
+    font-size: 20px;
+    border-bottom: 0.5px solid white;
+    padding-top: 20px;
+}
+.Colornew{display: hidden;
+visibility: hidden;}
+
+@media screen and (max-width:460px){
+    .Color{
+        display: none;
+    }
+    .Colornew{
+        display:block;
+    }
+}

@@ -1,0 +1,13 @@
+Enable Layer Mask from the Layer menu does not create a new mask - it turns on an existing 
+one that had been turned off. It's greyed out because your layer doesn't currently have a mask,
+ so there is nothing to enable.To create a new 
+layer mask, select your layer and click the Layer Mask icon in at the bottom of the Layers panel.
+
+AiOutlineMobile
+3FB8D7
+0292CE
+FaStethoscope
+IoPulse
+RiFirstAidKitLine
+GiHealthCapsule
+GiHealthCapsule

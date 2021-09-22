@@ -1,0 +1,46 @@
+.row{
+    margin: 0 40px;
+    padding: 0 140px;
+    font-size: 12px;
+    text-align: center;
+    
+}
+
+.theme-text{
+    margin: 20px;
+    color: #787878;
+    font-size: 22px;
+}
+.theme-text h3{
+    padding: 0 180px;
+    margin-top: 50px;
+    text-align: justify;
+    font-size: 45px;
+    font-weight: 280;
+    color: #3065B5;
+}
+.theme-text p{
+    font-size: 36px;
+    font-weight: 280;
+    color: #787878;
+    text-align: justify;
+    margin-bottom: 50px;
+    padding: 0 180px;
+}
+.Medical-treatment, .Emergency, .Medical-prof, .Qualified-doctors{
+    font-size: 18px;
+    text-align: justify;
+    color:#787878 ;
+    padding-bottom: 20px;
+}
+.med-icon, .emergency-icon, .prof-icon, .doc-icon{
+    font-size: 70px;
+    color: #00abd6;
+    margin-bottom: 15px;
+}
+.Medical-treatment h4, .Emergency h4, .Medical-prof h4, .prof-icon h4, .Qualified-doctors h4{
+    margin: 25px 0;
+    color: black;
+    font-size: 32px;
+    font-weight: 350;
+} 

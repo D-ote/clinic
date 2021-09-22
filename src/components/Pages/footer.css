@@ -1,0 +1,32 @@
+.footer{
+    color: white;
+    background-color: rgb(43, 43, 43);
+    /* font-size: 20px; */
+}
+/* /* .Contactfooter, .Doctorsfooter, .Servicefooter, .Contactfooter{
+    padding: 15px; */
+    
+/* } */ */
+
+.Contactfooter h3, .Doctorsfooter h3, .Servicefooter h3, .Contactfooter h3{
+    font-size: 25px;
+    text-align: justify;
+    color: #0292CE;
+    padding: 15px 15px 15px 0;
+    margin: 0;
+    
+}
+.Contactfooter ul li, .Doctorsfooter ul li, .Servicefooter ul li, .Contactfooter ul li{
+    list-style: none;
+    font-size: 18px;
+    text-align: justify;
+    padding: 15px;
+}
+.contactform input{
+    background-color: transparent;
+    font-size: 20px;
+    border: 1px solid black;
+    text-align: justify;
+    padding: 12px;
+    margin: 15px;
+}

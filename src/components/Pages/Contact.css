@@ -1,0 +1,50 @@
+.Contact{
+    margin: 0;
+    padding:0;
+    width: 100%;
+    height: 300px;
+    
+}
+
+.contact-text{
+    margin-top: 15px;
+    font-size: 16px;
+    color: #787878;
+}
+.contact-contact{
+    color: black;
+    font-size: 24px;
+}
+.contact-one, .contact-three{
+    background-color: #eeecec88;   
+    
+}
+
+.contact-two{
+    background-color:#fcfcfc ;
+}
+
+.call, .message, .location{
+    display: flex;
+}
+.call{
+    padding-left: 35%;
+}
+.call-icon{
+    color: #3FB8D7;
+    padding-top: 15px;
+    margin-top: 40px;
+    font-size: 70px; 
+}
+.sms-icon{
+    color: #0292CE;
+    padding-top: 15px;
+    margin-top: 40px;
+    font-size: 70px;
+}
+.map-icon{
+    color: #3065B5;
+    padding-top: 15px;
+    margin-top: 40px;
+    font-size: 70px; 
+}

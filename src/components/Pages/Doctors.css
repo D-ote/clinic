@@ -1,0 +1,43 @@
+.entirety{
+    background-color:#eeecec88;
+    max-width: 100%;
+}
+
+.Prof{
+    margin: 50px;
+    width: 400px;
+    
+    background: white;
+   
+}
+.Prof h3{
+    color: #3065B5;
+    font-weight: 500;
+    padding: 20px;
+    text-align: left;
+   
+}
+.Prof p{
+    font-size: 20px;
+    border-bottom: 1px solid rgba(235, 235, 235, 0.719);
+    padding: 0px 20px 20px 20px;
+    text-align: left;
+    color: #787878;
+}
+.Prof blockquote{
+    font-size: 20px;
+    border-bottom: 1px solid rgba(235, 235, 235, 0.719);
+    text-align: left;
+    padding: 20px;
+    color: #787878;
+}
+.mobile, .email{
+    font-size: 22px;
+    color: #787878;
+   border-bottom:  1px solid rgba(235, 235, 235, 0.719) ;
+   text-align: left;
+   padding-left: 20px;
+}
+.mobile Link{
+    color: #787878;
+}

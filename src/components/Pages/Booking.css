@@ -1,0 +1,46 @@
+
+.Booking{
+    background: #3065B5;
+    color: white;
+    padding: 15px;
+    
+}
+.Booking h3{
+    padding: 20px;
+}
+
+.departments-one, .mail-date, .name-phone{
+    color: white;
+    display: flex;
+    
+    
+}
+.departments, .doctors, .name{
+    color: white;
+    padding: 20px;
+    font-size: 25px;
+    width: 350px;
+    background: #b9d1f59a;
+}
+.Questions{
+    padding: 0 40px;
+}
+.office-hours{
+    font-size: 20px;
+    border: 1px solid grey;
+    border-top: 3px solid #3065B5;
+    text-align: justify;
+    padding: 10px;
+}
+.office-hours{
+    text-align: justify;
+}
+.questions-p{
+    border: 1px solid grey;
+    font-size: 20px;
+    text-align: justify;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+    
