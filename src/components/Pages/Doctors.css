@@ -5,7 +5,7 @@
 
 .Prof{
     margin: 50px;
-    width: 400px;
+    width: 200px;
     
     background: white;
    
@@ -41,3 +41,75 @@
 .mobile Link{
     color: #787878;
 }
+
+.humanResourceSection {
+    background-color: #f4f5f7;
+  }
+  
+  .hrsectionText {
+    padding-top: 40px;
+  }
+  
+  .hrsectionText h1 {
+    font-size: 48px;
+    font-weight: 700;
+  }
+  
+  .hrsectionPText {
+    margin-top: 24px;
+    max-width: 436px;
+  }
+  
+  .hrsectionText p {
+    font-size: 16px;
+    color: #5e6c84;
+    line-height: 1.5;
+  }
+  
+  .humanResourceCards {
+    margin-top: 80px;
+  }
+  
+  .hrCard {
+    /* padding: 32px; */
+    border-radius: 16px !important;
+    margin-right: 20px;
+    border: none;
+  }
+  
+  .cardShadow {
+    box-shadow: 0px 18px 31px rgba(9, 30, 66, 0.06);
+  }
+  
+  .hrCard:last-child,
+  .adminCard:last-child {
+    margin-right: 0px;
+  }
+  
+  .hrCard img,
+  .adminCard img {
+    width: 100%;
+    height: 250px;
+    margin-bottom: 32px;
+  }
+  
+  .hrBody {
+    padding: 0 32px 32px 32px;
+  }
+  
+  .hrBody h5,
+  .adminCardBody h5 {
+    font-size: 22px;
+    font-weight: bold;
+    margin: 8px 0;
+  }
+  
+  .hrBody p {
+    font-size: 14px;
+    color: #5e6c84;
+  }
+
+  .card-img-top {
+
+  }
+  

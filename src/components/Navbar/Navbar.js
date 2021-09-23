@@ -9,7 +9,7 @@ const Navbar1 = () => {
     return (
         <div>
               <Navbar className='Nav navbar-light' collapseOnSelect>
-    <Container className='me-auto'style={{margin:'10px 0'}}>
+    <Container className='me-auto'style={{margin:'10px auto'}}>
     
 
     <Nav className="/" style={{float:'left', color:'white'}}>
@@ -28,7 +28,7 @@ const Navbar1 = () => {
   </Navbar>
 
   <Navbar  className='Nav navbar-light' >
-  <Container className='me-auto1' style={{margin:'60px 0 30px  auto'}}>
+  <Container className='me-auto1' style={{margin:'50px 0 25px 0'}}>
   <NavbarBrand className='brand' to="/" style={{ float:'left',margin:'20px'}}><img
         style={{textAlign:'left',marginTop:'5px' }}
         src={logoeditted}
@@ -36,7 +36,7 @@ const Navbar1 = () => {
         height="50"
         className="d-inline-block align-top"
         alt=""
-      /> <h2 style={{marginLeft:'20px',color:'white',fontSize:'45px'}}>Medical</h2><h2 style={{paddingLeft:'20px',fontWeight:'200',color:'white',fontSize:'45px'}}> Clinic</h2></NavbarBrand>
+      /> <h2 style={{marginLeft:'20px',color:'white',fontSize:'35px'}}>Medical</h2><h2 style={{paddingLeft:'20px',fontWeight:'200',color:'white',fontSize:'35px'}}> Clinic</h2></NavbarBrand>
    </Container>
     <Navbar.Toggle aria-controls="basic-navbar-nav" />
     
